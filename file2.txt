@@ -1,2 +1,5 @@
 "Isi file 2" 
+
+menambah baris
+
 edit menggunakan remote
