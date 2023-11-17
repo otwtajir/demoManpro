@@ -1,1 +1,2 @@
 "Isi file 1" 
+edit menggunakan remote
