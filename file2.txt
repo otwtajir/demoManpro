@@ -1,1 +1,2 @@
 "Isi file 2" 
+commit menggunakan remote
